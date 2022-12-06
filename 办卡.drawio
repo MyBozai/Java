@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T14:43:28.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" version="20.4.0" etag="dGdnOktZlseVYfQLFAnh" type="github"><diagram id="vR7rhICllvTpDk5bEpMW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-06T14:55:44.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="UP2doUs928r6NS3Zrp36" version="20.4.0" type="github">
+  <diagram id="vR7rhICllvTpDk5bEpMW" name="第 1 页">
+    <mxGraphModel dx="1020" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uKbpZKri8SQIzY-pvOMV-9" target="uKbpZKri8SQIzY-pvOMV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-69" value="注册信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uKbpZKri8SQIzY-pvOMV-56">
+          <mxGeometry x="0.269" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-9" value="学生/教职工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-35" value="饭卡信息数据" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="392.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-79" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uKbpZKri8SQIzY-pvOMV-48" target="uKbpZKri8SQIzY-pvOMV-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-80" value="用户信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uKbpZKri8SQIzY-pvOMV-79">
+          <mxGeometry x="0.1671" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-48" value="持卡人信息数据" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uKbpZKri8SQIzY-pvOMV-49" target="uKbpZKri8SQIzY-pvOMV-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-75" value="用户信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uKbpZKri8SQIzY-pvOMV-74">
+          <mxGeometry x="0.2692" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-49" value="用户信息数据" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uKbpZKri8SQIzY-pvOMV-50" target="uKbpZKri8SQIzY-pvOMV-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-68" value="用户信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uKbpZKri8SQIzY-pvOMV-65">
+          <mxGeometry x="-0.264" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-50" value="1.1&lt;br&gt;注册账号" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="125" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uKbpZKri8SQIzY-pvOMV-52" target="uKbpZKri8SQIzY-pvOMV-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-78" value="用户信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uKbpZKri8SQIzY-pvOMV-66">
+          <mxGeometry x="-0.1802" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-52" value="1.2&lt;br&gt;根据用户信息创建用户账户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="155" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uKbpZKri8SQIzY-pvOMV-53" target="uKbpZKri8SQIzY-pvOMV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-76" value="饭卡信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uKbpZKri8SQIzY-pvOMV-64">
+          <mxGeometry x="-0.296" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKbpZKri8SQIzY-pvOMV-53" value="1.3&lt;br&gt;创建饭卡信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="227.5" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
